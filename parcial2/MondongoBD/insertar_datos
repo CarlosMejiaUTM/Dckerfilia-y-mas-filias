@@ -1,0 +1,72 @@
+[
+  {
+    "titulo": "Sueño de fuga",
+    "genero": "Drama",
+    "anio_lanzamiento": 1994,
+    "actores": ["Tim Robbins", "Morgan Freeman"],
+    "calificacion": 9.5
+  },
+  {
+    "titulo": "El Padrino",
+    "genero": "Crimen",
+    "anio_lanzamiento": 1972,
+    "actores": ["Marlon Brando", "Al Pacino"],
+    "calificacion": 9.8
+  },
+  {
+    "titulo": "Pulp Fiction",
+    "genero": "Crimen",
+    "anio_lanzamiento": 1994,
+    "actores": ["John Travolta", "Samuel L. Jackson"],
+    "calificacion": 9.7
+  },
+  {
+    "titulo": "El caballero oscuro",
+    "genero": "Acción",
+    "anio_lanzamiento": 2008,
+    "actores": ["Christian Bale", "Heath Ledger"],
+    "calificacion": 9.6
+  },
+  {
+    "titulo": "El club de la pelea",
+    "genero": "Drama",
+    "anio_lanzamiento": 1999,
+    "actores": ["Brad Pitt", "Edward Norton"],
+    "calificacion": 9.4
+  },
+  {
+    "titulo": "El origen",
+    "genero": "Ciencia ficción",
+    "anio_lanzamiento": 2010,
+    "actores": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+    "calificacion": 9.3
+  },
+  {
+    "titulo": "Matrix",
+    "genero": "Ciencia ficción",
+    "anio_lanzamiento": 1999,
+    "actores": ["Keanu Reeves", "Carrie-Anne Moss"],
+    "calificacion": 9.2
+  },
+  {
+    "titulo": "Los Vengadores",
+    "genero": "Acción",
+    "anio_lanzamiento": 2012,
+    "actores": ["Robert Downey Jr.", "Chris Evans"],
+    "calificacion": 9.1
+  },
+  {
+    "titulo": "Forrest Gump",
+    "genero": "Drama",
+    "anio_lanzamiento": 1994,
+    "actores": ["Tom Hanks", "Robin Wright"],
+    "calificacion": 9.0
+  },
+  {
+    "titulo": "El Rey León",
+    "genero": "Animación",
+    "anio_lanzamiento": 1994,
+    "actores": ["Matthew Broderick", "Jeremy Irons"],
+    "calificacion": 8.9
+  }
+]
